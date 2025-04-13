@@ -44,8 +44,8 @@ Online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fgithu
 ### Board Characteristics
 
 - Copper layer count: 2
-- Board thickness: 1.6 mm
-- Board overall dimensions: 15.5 x 30 mm
+- Board thickness: 0.1 mm
+- Board overall dimensions: 15.5 x 38.7 mm
 
 ### Voltage level config
 
