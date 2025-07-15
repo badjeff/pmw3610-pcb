@@ -5,6 +5,7 @@
 - Base on schematic from [siderakb/pmw3610-pcb](https://github.com/siderakb/pmw3610-pcb).
 - Be operated with 3.3V voltage level ONLY.
 - Outlined as narrow as possible for side mount horizontally and perpendicular on low profile keyboards.
+- Developed for [zmk-pmw3610-driver](https://github.com/badjeff/zmk-pmw3610-driver)
 
 <img src="photo-1.jpg" width="400">
 
